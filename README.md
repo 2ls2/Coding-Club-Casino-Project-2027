@@ -1,4 +1,5 @@
 brew install sdl3
+brew install sdl3_image
 brew install cmake
 
 Install Microsoft's C/C++ extension if you haven't already.

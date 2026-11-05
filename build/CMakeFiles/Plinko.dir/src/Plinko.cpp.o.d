@@ -164,4 +164,6 @@ CMakeFiles/Plinko.dir/src/Plinko.cpp.o: \
   /opt/homebrew/include/SDL3/SDL_tray.h \
   /opt/homebrew/include/SDL3/SDL_version.h \
   /opt/homebrew/include/SDL3/SDL_oldnames.h \
-  /opt/homebrew/include/SDL3/SDL_main.h
+  /opt/homebrew/include/SDL3/SDL_main.h \
+  /opt/homebrew/include/SDL3_image/SDL_image.h \
+  /Users/harsh/Documents/Coding-Club-Casino-Project-2027/src/../include/Plinko.hpp

@@ -111,6 +111,7 @@ Plinko_EXTERNAL_OBJECTS =
 Plinko: CMakeFiles/Plinko.dir/src/main.cpp.o
 Plinko: CMakeFiles/Plinko.dir/src/Plinko.cpp.o
 Plinko: CMakeFiles/Plinko.dir/build.make
+Plinko: /opt/homebrew/lib/libSDL3_image.0.4.8.dylib
 Plinko: /opt/homebrew/lib/libSDL3.0.dylib
 Plinko: CMakeFiles/Plinko.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/harsh/Documents/Coding-Club-Casino-Project-2027/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Plinko"

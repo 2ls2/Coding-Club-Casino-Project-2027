@@ -1,13 +1,13 @@
 [
 {
   "directory": "/Users/harsh/Documents/Coding-Club-Casino-Project-2027/build",
-  "command": "/usr/bin/c++  -I/opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/Plinko.dir/src/main.cpp.o -c /Users/harsh/Documents/Coding-Club-Casino-Project-2027/src/main.cpp",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/Plinko.dir/src/main.cpp.o -c /Users/harsh/Documents/Coding-Club-Casino-Project-2027/src/main.cpp",
   "file": "/Users/harsh/Documents/Coding-Club-Casino-Project-2027/src/main.cpp",
   "output": "CMakeFiles/Plinko.dir/src/main.cpp.o"
 },
 {
   "directory": "/Users/harsh/Documents/Coding-Club-Casino-Project-2027/build",
-  "command": "/usr/bin/c++  -I/opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/Plinko.dir/src/Plinko.cpp.o -c /Users/harsh/Documents/Coding-Club-Casino-Project-2027/src/Plinko.cpp",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/Plinko.dir/src/Plinko.cpp.o -c /Users/harsh/Documents/Coding-Club-Casino-Project-2027/src/Plinko.cpp",
   "file": "/Users/harsh/Documents/Coding-Club-Casino-Project-2027/src/Plinko.cpp",
   "output": "CMakeFiles/Plinko.dir/src/Plinko.cpp.o"
 }
